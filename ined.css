@@ -1,0 +1,209 @@
+.head-1{
+    width: 100%;
+    height: 73px;
+    
+}
+body{
+margin: 0;
+}
+.starbucks-logo{
+    width: 40px;
+    height: 40px;
+    margin-left: 148px;
+    margin-top: 17px;
+    float: left;
+}
+.home{
+    float: left;
+    margin-left: 63px;
+    margin-top: 26px;
+    font-size: 15px;
+    color: rgb(30, 84, 30);
+    font-style: normal;
+    
+}
+.gift{
+    float: left;
+    margin-left: 63px;
+    margin-top: 26px;
+    font-size: 18px;
+    
+    
+    
+}
+.search-bar{
+    float: left;
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 260px;
+    height: 35px;
+     box-shadow:0 2px 6px 0 rgb(219, 214, 214),0 4px 12px 0 gray;
+    border-radius: 9px;
+    border-color: rgb(245, 243, 240);
+    font-size: small;
+    padding-left: 40px;
+
+  
+ 
+  
+  
+}.account{
+    float: left;
+    margin-top: 19px;
+    padding-left: 90px;
+}
+.head-2{
+    width: 100%;
+    height: 73px;
+    background-color:#1e3932;
+}.text{
+    color: #f9f9f9;
+font-size: 20px;
+font-weight: 300;
+margin-left: 140px;
+padding-top: 20px;
+
+}
+.right-text{
+    float: left;
+    width: 20px;
+    height: 10px;
+    background-color: #1e3932;
+    margin-left: 1095px;
+    margin-top: -30px;
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+    border-color: #f3eeee;
+    border: 1px solid;
+    padding-left: 8px;
+    color: #f9f9f9;
+}
+.body-1{
+    width: 1135px;
+    margin-left: 112px;
+    margin-top: 20px;
+    
+}.text-2{
+    padding-left: 150px;
+    padding-top: 50px;
+    font-size:25px;
+    font-weight: bold;
+}.photo{
+    padding-left: 140px;
+    padding-top: 20px;
+    float: left;
+    
+}
+.ph-1{
+    width: 110px;
+    border-radius: 100px;
+}
+.body-2{
+    width: 100%;
+    height: 320px;
+    background-color: #edebe9;
+    float: left;
+    margin-top: 70px;
+
+}.text-2{
+    padding-left: 150px;
+    padding-top: 30px;
+    font-size:25px;
+    font-weight: bold;
+    
+}.view-menu{
+    float: left;
+    margin-left: 63px;
+    margin-top: 26px;
+    font-size: 15px;
+    color: rgb(30, 84, 30);
+    font-style: normal;
+    padding-left: 1100px;
+    margin-top: -35px;
+}
+.inner-box1{
+    width: 350px;
+    height: 150px;
+    background-color: #ffffff;
+    margin-left: 160px;
+    border-radius: 8px;
+    float: left;
+    margin-top: 20px;
+}
+.button-2{
+margin-left: 220px;
+float: left;
+margin-top: -40px;
+border-radius: 100px;
+background-color:rgb(73, 132, 73) ;
+color: #edebe9;
+width:100px;
+height: 30px;
+padding-top: 3px;
+padding-left: 20px;
+box-shadow:0 2px 6px 0 rgb(219, 214, 214),0 4px 12px 0 gray;
+
+}
+.inner-box2{
+    width: 350px;
+    height: 150px;
+    background-color: #ffffff;
+    margin-left: 20px;
+    border-radius: 8px;
+    float: left;
+    margin-top: 20px;
+}
+.inner-box3{
+    width: 350px;
+    height: 150px;
+    background-color: #ffffff;
+    margin-left: 20px;
+    border-radius: 8px;
+    float: left;
+    margin-top: 20px;
+}.body-3{
+    width: 100%;
+    height: 550px;
+    background-color: #edebe9;
+    float: left;
+    margin-top: 40px;
+}
+.ph-3{
+    width: 1120px;
+    height: 390px;
+    margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.footer{
+    width: 100%;
+    height: 900px;
+    background-color: #1e3932;
+    float: left;
+    margin-top: 40px;
+}
+.logo-2{
+    padding-left: 120px;
+    padding-top: 140px;
+
+}
+.about{
+    float: left;
+    color: #f3eeee;
+    padding-left: 300px;
+    margin-top: -60px;
+
+}
+.res{
+    float: left;
+    color: #f3eeee;
+    padding-left: 100px;
+    margin-top: -60px; 
+}
+.play{
+    width: 180px;
+    
+    padding-top: 60px;
+    padding-left: 40px;
+}
